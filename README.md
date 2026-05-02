@@ -1,6 +1,8 @@
 # pi-deck
 Making cheaper versions of stream decks! 
 
+(Currently only works with pico explorer sets)
+
 This is my first real project, so give me a bit before I get my code uploaded here. 😭
 
 ## Star History
